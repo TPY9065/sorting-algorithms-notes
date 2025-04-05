@@ -4,8 +4,8 @@ be used in real world business project, I think there is still a need to at leas
 and how they work.
 
 # Algorithms
-- [x] Quick Sort
-- [x] Bubble Sort
+- [x] [Quick Sort](./src/main/java/quicksort)
+- [x] [Bubble Sort](./src/main/java/bubblesort)
 - [ ] Insertion Sort
 - [ ] Selection Sort
 - [ ] Merge Sort
