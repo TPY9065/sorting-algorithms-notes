@@ -4,7 +4,7 @@ be used in real world business project, I think there is still a need to at leas
 and how they work.
 
 # Algorithms
-- [ ] Quick Sort
+- [x] Quick Sort
 - [ ] Bubble Sort
 - [ ] Insertion Sort
 - [ ] Selection Sort
