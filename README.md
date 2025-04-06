@@ -6,6 +6,6 @@ and how they work.
 # Algorithms
 - [x] [Quick Sort](./src/main/java/quicksort)
 - [x] [Bubble Sort](./src/main/java/bubblesort)
-- [ ] Insertion Sort
+- [x] [Insertion Sort](./src/main/java/insertionsort)
 - [ ] Selection Sort
 - [ ] Merge Sort
