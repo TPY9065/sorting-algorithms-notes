@@ -1,5 +1,5 @@
 # Preface
-This is a repository for self-learning a memory refresh on sorting algorithms. Although not all sorting algorithms will
+This is a repository for self-learning and memory refresh on sorting algorithms. Although not all sorting algorithms will
 be used in real world business project, I think there is still a need to at least know what those sorting algorithms are
 and how they work.
 
