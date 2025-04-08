@@ -7,5 +7,5 @@ and how they work.
 - [x] [Quick Sort](./src/main/java/quicksort)
 - [x] [Bubble Sort](./src/main/java/bubblesort)
 - [x] [Insertion Sort](./src/main/java/insertionsort)
-- [ ] Selection Sort
+- [x] [Selection Sort](./src/main/java/selectionsort)
 - [ ] Merge Sort
