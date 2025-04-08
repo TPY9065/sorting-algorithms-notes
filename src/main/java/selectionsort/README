@@ -1,0 +1,5 @@
+# Selection Sort
+
+1. select the min/max value from the unsorted list
+2. swap the selected value with the first value in the unsorted list and mark it as sorted
+3. repeat step 1 and 2 until there is no more value in the unsorted list
