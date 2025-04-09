@@ -8,4 +8,4 @@ and how they work.
 - [x] [Bubble Sort](./src/main/java/bubblesort)
 - [x] [Insertion Sort](./src/main/java/insertionsort)
 - [x] [Selection Sort](./src/main/java/selectionsort)
-- [ ] Merge Sort
+- [x] [Merge Sort](./src/main/java/mergesort) 
