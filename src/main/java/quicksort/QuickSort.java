@@ -11,7 +11,7 @@ public class QuickSort
         int[] values = new int[]{ 35, 33, 42, 10, 14, 19, 27, 44, 26, 31 };
         quickSort.sort(values, 0, values.length - 1);
 
-        Utility.print(values);
+        Utility.println(values);
     }
 
     public void sort(int[] values, int left, int right)
@@ -52,7 +52,7 @@ public class QuickSort
 
         // swap li and pivot as we choose the last index as pivot
         Utility.swap(values, li, right);
-        Utility.print(values);
+        Utility.println(values);
 
         // repeat sorting on sub-arrays
         sort(values, left, li - 1);

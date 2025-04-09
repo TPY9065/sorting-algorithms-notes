@@ -9,7 +9,7 @@ public class SelectionSort
         int[] values = new int[]{ 41, 33, 17, 80, 61, 5, 55 };
         SelectionSort selectionSort = new SelectionSort();
         selectionSort.sort(values);
-        Utility.print(values);
+        Utility.println(values);
     }
 
     public void sort(int[] values)
@@ -22,7 +22,7 @@ public class SelectionSort
                 minIndex = values[minIndex] < values[j] ? minIndex : j;
             }
             Utility.swap(values, minIndex, i);
-            Utility.print(values);
+            Utility.println(values);
         }
     }
 }

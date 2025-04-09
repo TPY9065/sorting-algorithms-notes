@@ -11,8 +11,13 @@ public class Utility
         arr[j] = temp;
     }
 
-    public static void print(int[] arr)
+    public static void println(int[] arr)
     {
         System.out.println(Arrays.toString(arr));
+    }
+
+    public static void print(int[] arr)
+    {
+        System.out.print(Arrays.toString(arr));
     }
 }

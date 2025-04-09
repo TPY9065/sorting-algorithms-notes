@@ -11,7 +11,7 @@ public class BubbleSort
         int[] values = new int[]{ 35, 33, 42, 10, 14, 19, 27, 44, 26, 31 };
         bubbleSort.sort(values);
 
-        Utility.print(values);
+        Utility.println(values);
     }
 
     public void sort(int[] values)
@@ -25,7 +25,7 @@ public class BubbleSort
                     Utility.swap(values, j, j + 1);
                 }
             }
-            Utility.print(values);
+            Utility.println(values);
         }
     }
 }

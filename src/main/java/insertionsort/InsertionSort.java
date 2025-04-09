@@ -11,7 +11,7 @@ public class InsertionSort
         int[] values = new int[]{ 17, 54, 23, 77, 93, 31, 44, 55, 20 };
         insertionSort.sort(values);
         System.out.print("Results: ");
-        Utility.print(values);
+        Utility.println(values);
     }
 
     public void sort(int[] values)
@@ -28,7 +28,7 @@ public class InsertionSort
                     insertAndShift(values, i, j);
                 }
             }
-            Utility.print(values);
+            Utility.println(values);
             System.out.println();
         }
     }
